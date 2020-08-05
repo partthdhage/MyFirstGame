@@ -1,1 +1,1 @@
-This game was built by Parth Dhage using Utility Software.
+This game was built by Parth Dhage using Unity Software.
